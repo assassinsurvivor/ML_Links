@@ -2,4 +2,4 @@
 Useful Links
 
 #### Seaborn: 
-- [x] Basics[Here](https://sites.google.com/site/ownscratchpad/datascience/seaborn)
+- [x] Basics:[here](https://sites.google.com/site/ownscratchpad/datascience/seaborn)
